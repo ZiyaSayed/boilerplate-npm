@@ -1,6 +1,6 @@
 {
-	"name": "boilerplate-npm",
 	"author":"Ziya Sayed",
+	"name": "boilerplate-npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
